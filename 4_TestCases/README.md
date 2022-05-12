@@ -1,4 +1,3 @@
-
 Test Plan and Output
 
 The figure bellow shows test plan and output
